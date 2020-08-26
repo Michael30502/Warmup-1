@@ -1,0 +1,11 @@
+public boolean monkeyTrouble(boolean aSmile, boolean bSmile) {
+  
+  boolean result = false;
+  if(aSmile == bSmile){
+    result = true;
+    
+  }
+  return result;
+  
+  
+}
