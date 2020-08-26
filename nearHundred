@@ -1,0 +1,11 @@
+public boolean nearHundred(int n) {
+  
+  boolean result = false;
+  
+  if(n <111 && n>89 || 211 >n && 189 <n)
+  result = true;
+  
+  return result;
+  
+  
+}
